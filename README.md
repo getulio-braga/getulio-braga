@@ -1,39 +1,43 @@
-<br clear="both">
+# 👋 Olá, eu sou Rodolfo Braga
 
-<h1 align="center">Olá, eu sou Getúlio</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Futuro+Full+Stack)](https://git.io/typing-svg)
 
-###
+---
 
-<br clear="both">
+## 👨‍💻 Sobre mim
 
-<h4 align="center">👨‍💻Programador Iniciante</h4>
+- 💻 Técnico em Redes de Computadores  
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas  
+- 🚀 Focado em desenvolvimento web e infraestrutura  
+- 🐧 Entusiasta de Linux  
 
-###
+---
 
-<h2 align="left">📌Sobre mim</h2>
+## 🛠️ Tecnologias
 
-###
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p align="left">- 💻 Técnico em Redes de Computadores  <br>- 🎓 Graduando em Análise e Desenvolvimento de Sistemas  <br>- 🚀 Focado em desenvolvimento web e infraestrutura  <br>- 🐧 Entusiasta de Linux</p>
+---
 
-###
+## 📊 Estatísticas
 
-<h2 align="left">Tecnologias</h2>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
-###
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+---
 
-###
+## 🚀 Projetos
+
+- 📅 Sistema de Agenda  
+- 🌐 Sites responsivos  
+- 🔧 Projetos de redes  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue)
