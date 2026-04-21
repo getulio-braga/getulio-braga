@@ -26,9 +26,9 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtuliobr07&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gtuliobr07&theme=tokyonight)
 
 ---
 
